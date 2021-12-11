@@ -13,8 +13,10 @@ require 'prawn/table'
 require 'prawn'
 require 'prawn/measurement_extensions'
 #require 'active_support'
-require 'active_support/core_ext/hash'
-require 'active_support/core_ext/numeric/conversions'
+
+require 'active_support'
+require 'active_support/core_ext'
+
 
 require 'prawn/qrcode'
 require 'date'
