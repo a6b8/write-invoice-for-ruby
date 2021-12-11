@@ -3,6 +3,7 @@ module Dcmnt
 
 
   def document( template, options, payloads, output, debug ) 
+    payloads = payloads.with_indifferent_access
     opts = options_update( Marshal.load( Marshal.dump( options ) ), template, false )
     obj = document_invoice_prepare( payloads[:invoices][ 0 ], opts )
     

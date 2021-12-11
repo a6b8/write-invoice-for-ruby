@@ -1,0 +1,394 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Beorn",
+      "author": "This is a Demo Document.",
+      "subject": "Ecommerce Revenue"
+    },
+    "encrypt": {
+      "user_password": "TleOhWpPx5O5HP5ZW6k5kIi4DmJtqDD41rLycv04dl",
+      "owner_password": "TleOhWpPx5O5HP5ZW6k5kIi4DmJtqDD41rLycv04dl",
+      "permissions": {
+        "print_document": true,
+        "modify_contents": false,
+        "copy_contents": false,
+        "modify_annotations": false
+      }
+    }
+  },
+  "invoices": [
+    {
+      "meta": {
+        "id": "Z2056513",
+        "qr_code": "https://abshire-stroman.writeinvoice.com/api/Z2056513",
+        "headline": "Z2056513 | Captain Phasma",
+        "group": "1998-W09"
+      },
+      "date": {
+        "period": {
+          "from": 885682800,
+          "to": 886114800
+        },
+        "invoice": 887410800,
+        "billing": 888706800
+      },
+      "from": {
+        "address": {
+          "name": "Beorn",
+          "phrase": "Sharable zero administration contingency",
+          "street": "66396 Charlette Turnpike",
+          "city": "42377-8930 Boyleport",
+          "country": "Senegal"
+        },
+        "bank": {
+          "name": "Pouros Group",
+          "iban": "GB85HGXV56536413921244",
+          "bic": "BRBAGB2LXXX"
+        },
+        "contact": {
+          "phone": "241.637.4786",
+          "mobile": "1-754-346-0970 x13956",
+          "email": "rosario_labadie@writeinvoice.com",
+          "website": "wolf.writeinvoice.com"
+        },
+        "tax_id": "124-89-0740"
+      },
+      "to": {
+        "address": {
+          "name": "Captain Phasma",
+          "street": "297 Garrett Plaza",
+          "city": "38507-8063 Melbachester",
+          "country": "Jakku"
+        },
+        "tax_id": "548-79-5432"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "632-89-7256",
+            "name": "Sleek Marble Knife",
+            "pieces": 2,
+            "single": 72.46,
+            "total": 144.92
+          },
+          {
+            "id": "542-97-6689",
+            "name": "Sleek Bronze Bench",
+            "pieces": 4,
+            "single": 34.28,
+            "total": 137.12
+          }
+        ],
+        "sub_total": 282.03999999999996,
+        "shipping_fee": 7.31,
+        "total_net": 289.35,
+        "vat": 54.98,
+        "total_gross": 344.33
+      }
+    },
+    {
+      "meta": {
+        "id": "N7479364",
+        "qr_code": "https://wolf.writeinvoice.com/api/N7479364",
+        "headline": "N7479364 | Darth Caedus",
+        "group": "1998-W08"
+      },
+      "date": {
+        "period": {
+          "from": 884646000,
+          "to": 885250800
+        },
+        "invoice": 886546800,
+        "billing": 887842800
+      },
+      "from": {
+        "address": {
+          "name": "Beorn",
+          "phrase": "Sharable zero administration contingency",
+          "street": "66396 Charlette Turnpike",
+          "city": "42377-8930 Boyleport",
+          "country": "Senegal"
+        },
+        "bank": {
+          "name": "Pouros Group",
+          "iban": "GB85HGXV56536413921244",
+          "bic": "BRBAGB2LXXX"
+        },
+        "contact": {
+          "phone": "241.637.4786",
+          "mobile": "1-754-346-0970 x13956",
+          "email": "rosario_labadie@writeinvoice.com",
+          "website": "wolf.writeinvoice.com"
+        },
+        "tax_id": "124-89-0740"
+      },
+      "to": {
+        "address": {
+          "name": "Darth Caedus",
+          "street": "882 Erwin Centers",
+          "city": "57523-2309 Weissnatburgh",
+          "country": "Takodana"
+        },
+        "tax_id": "603-12-3868"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "572-01-8866",
+            "name": "Small Paper Shirt",
+            "pieces": 4,
+            "single": 52.3,
+            "total": 209.2
+          },
+          {
+            "id": "103-18-6681",
+            "name": "Fantastic Linen Shirt",
+            "pieces": 2,
+            "single": 34.24,
+            "total": 68.48
+          }
+        ],
+        "sub_total": 277.68,
+        "shipping_fee": 2.56,
+        "total_net": 280.24,
+        "vat": 53.25,
+        "total_gross": 333.49
+      }
+    },
+    {
+      "meta": {
+        "id": "Y3017013",
+        "qr_code": "https://kunde.writeinvoice.com/api/Y3017013",
+        "headline": "Y3017013 | Finn",
+        "group": "1998-W07"
+      },
+      "date": {
+        "period": {
+          "from": 884905200,
+          "to": 884559600
+        },
+        "invoice": 885855600,
+        "billing": 887151600
+      },
+      "from": {
+        "address": {
+          "name": "Beorn",
+          "phrase": "Sharable zero administration contingency",
+          "street": "66396 Charlette Turnpike",
+          "city": "42377-8930 Boyleport",
+          "country": "Senegal"
+        },
+        "bank": {
+          "name": "Pouros Group",
+          "iban": "GB85HGXV56536413921244",
+          "bic": "BRBAGB2LXXX"
+        },
+        "contact": {
+          "phone": "241.637.4786",
+          "mobile": "1-754-346-0970 x13956",
+          "email": "rosario_labadie@writeinvoice.com",
+          "website": "wolf.writeinvoice.com"
+        },
+        "tax_id": "124-89-0740"
+      },
+      "to": {
+        "address": {
+          "name": "Finn",
+          "street": "2613 Dibbert Bridge",
+          "city": "77105-9155 Wuckertmouth",
+          "country": "Eadu"
+        },
+        "tax_id": "819-76-5520"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "781-30-8838",
+            "name": "Intelligent Marble Shirt",
+            "pieces": 1,
+            "single": 77.6,
+            "total": 77.6
+          },
+          {
+            "id": "329-88-1482",
+            "name": "Small Paper Wallet",
+            "pieces": 1,
+            "single": 3.33,
+            "total": 3.33
+          }
+        ],
+        "sub_total": 80.92999999999999,
+        "shipping_fee": 5.13,
+        "total_net": 86.06,
+        "vat": 16.35,
+        "total_gross": 102.41
+      }
+    },
+    {
+      "meta": {
+        "id": "H2906000",
+        "qr_code": "https://mills-skiles.writeinvoice.com/api/H2906000",
+        "headline": "H2906000 | Maz Kanata",
+        "group": "1998-W05"
+      },
+      "date": {
+        "period": {
+          "from": 885164400,
+          "to": 883695600
+        },
+        "invoice": 884991600,
+        "billing": 886287600
+      },
+      "from": {
+        "address": {
+          "name": "Beorn",
+          "phrase": "Sharable zero administration contingency",
+          "street": "66396 Charlette Turnpike",
+          "city": "42377-8930 Boyleport",
+          "country": "Senegal"
+        },
+        "bank": {
+          "name": "Pouros Group",
+          "iban": "GB85HGXV56536413921244",
+          "bic": "BRBAGB2LXXX"
+        },
+        "contact": {
+          "phone": "241.637.4786",
+          "mobile": "1-754-346-0970 x13956",
+          "email": "rosario_labadie@writeinvoice.com",
+          "website": "wolf.writeinvoice.com"
+        },
+        "tax_id": "124-89-0740"
+      },
+      "to": {
+        "address": {
+          "name": "Maz Kanata",
+          "street": "8242 Mitsue Land",
+          "city": "71516-7784 Weberbury",
+          "country": "Takodana"
+        },
+        "tax_id": "056-05-4683"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "391-11-7967",
+            "name": "Incredible Leather Wallet",
+            "pieces": 1,
+            "single": 88.66,
+            "total": 88.66
+          },
+          {
+            "id": "752-74-3170",
+            "name": "Lightweight Cotton Shoes",
+            "pieces": 3,
+            "single": 70.31,
+            "total": 210.93
+          },
+          {
+            "id": "867-46-3000",
+            "name": "Awesome Steel Knife",
+            "pieces": 1,
+            "single": 40.03,
+            "total": 40.03
+          },
+          {
+            "id": "615-67-7295",
+            "name": "Mediocre Rubber Coat",
+            "pieces": 5,
+            "single": 27.43,
+            "total": 137.15
+          },
+          {
+            "id": "875-72-6225",
+            "name": "Awesome Marble Table",
+            "pieces": 5,
+            "single": 32.64,
+            "total": 163.2
+          },
+          {
+            "id": "838-66-4943",
+            "name": "Awesome Bronze Coat",
+            "pieces": 5,
+            "single": 50.56,
+            "total": 252.8
+          }
+        ],
+        "sub_total": 892.77,
+        "shipping_fee": 8.36,
+        "total_net": 901.13,
+        "vat": 171.21,
+        "total_gross": 1072.34
+      }
+    },
+    {
+      "meta": {
+        "id": "J4406776",
+        "qr_code": "https://collier.writeinvoice.com/api/J4406776",
+        "headline": "J4406776 | Poe Dameron",
+        "group": "1998-W06"
+      },
+      "date": {
+        "period": {
+          "from": 886114800,
+          "to": 884214000
+        },
+        "invoice": 885510000,
+        "billing": 886806000
+      },
+      "from": {
+        "address": {
+          "name": "Beorn",
+          "phrase": "Sharable zero administration contingency",
+          "street": "66396 Charlette Turnpike",
+          "city": "42377-8930 Boyleport",
+          "country": "Senegal"
+        },
+        "bank": {
+          "name": "Pouros Group",
+          "iban": "GB85HGXV56536413921244",
+          "bic": "BRBAGB2LXXX"
+        },
+        "contact": {
+          "phone": "241.637.4786",
+          "mobile": "1-754-346-0970 x13956",
+          "email": "rosario_labadie@writeinvoice.com",
+          "website": "wolf.writeinvoice.com"
+        },
+        "tax_id": "124-89-0740"
+      },
+      "to": {
+        "address": {
+          "name": "Poe Dameron",
+          "street": "50577 Amelia Mills",
+          "city": "19871 Lake Solbury",
+          "country": "Death Star"
+        },
+        "tax_id": "756-05-1718"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "813-69-8163",
+            "name": "Gorgeous Bronze Chair",
+            "pieces": 5,
+            "single": 6.68,
+            "total": 33.4
+          },
+          {
+            "id": "289-35-8147",
+            "name": "Intelligent Leather Pants",
+            "pieces": 3,
+            "single": 65.22,
+            "total": 195.66
+          }
+        ],
+        "sub_total": 229.06,
+        "shipping_fee": 2.64,
+        "total_net": 231.7,
+        "vat": 44.02,
+        "total_gross": 275.72
+      }
+    }
+  ]
+}

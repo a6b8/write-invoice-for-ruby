@@ -1,0 +1,401 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Bard the Bowman",
+      "author": "This is a Demo Document.",
+      "subject": "Ecommerce Revenue"
+    },
+    "encrypt": {
+      "user_password": "IptjdqoZx3HKdxQBwVDOwIq4ktlb2Umtt2Ags4R1ZZ",
+      "owner_password": "IptjdqoZx3HKdxQBwVDOwIq4ktlb2Umtt2Ags4R1ZZ",
+      "permissions": {
+        "print_document": true,
+        "modify_contents": false,
+        "copy_contents": false,
+        "modify_annotations": false
+      }
+    }
+  },
+  "invoices": [
+    {
+      "meta": {
+        "id": "I5903024",
+        "qr_code": "https://reichel-okeefe.writeinvoice.com/api/I5903024",
+        "headline": "I5903024 | Chirrut Imwe",
+        "group": "1998-W09"
+      },
+      "date": {
+        "period": {
+          "from": 883609200,
+          "to": 886114800
+        },
+        "invoice": 887410800,
+        "billing": 888706800
+      },
+      "from": {
+        "address": {
+          "name": "Bard the Bowman",
+          "phrase": "Seamless heuristic firmware",
+          "street": "21044 Gutkowski Flats",
+          "city": "70835 Konopelskiland",
+          "country": "Heard Island and McDonald Islands"
+        },
+        "bank": {
+          "name": "Hackett, Goldner and Kassulke",
+          "iban": "GB70RLWN15528350408323",
+          "bic": "BCYPGB2LBBB"
+        },
+        "contact": {
+          "phone": "365.376.0189 x588",
+          "mobile": "(395) 890-7845 x4154",
+          "email": "lindsay_schowalter@writeinvoice.com",
+          "website": "howell-jenkins.writeinvoice.com"
+        },
+        "tax_id": "642-82-8863"
+      },
+      "to": {
+        "address": {
+          "name": "Chirrut Imwe",
+          "street": "79524 Schmitt Square",
+          "city": "84453-9568 Lake Carmellahaven",
+          "country": "Mandalore"
+        },
+        "tax_id": "164-20-7109"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "598-13-5828",
+            "name": "Sleek Wool Coat",
+            "pieces": 2,
+            "single": 57.29,
+            "total": 114.58
+          },
+          {
+            "id": "280-04-3538",
+            "name": "Synergistic Linen Car",
+            "pieces": 4,
+            "single": 83.41,
+            "total": 333.64
+          }
+        ],
+        "sub_total": 448.21999999999997,
+        "shipping_fee": 5.73,
+        "total_net": 453.95,
+        "vat": 86.25,
+        "total_gross": 540.2
+      }
+    },
+    {
+      "meta": {
+        "id": "C2830986",
+        "qr_code": "https://conn.writeinvoice.com/api/C2830986",
+        "headline": "C2830986 | Darth Maul",
+        "group": "1998-W06"
+      },
+      "date": {
+        "period": {
+          "from": 883868400,
+          "to": 883954800
+        },
+        "invoice": 885250800,
+        "billing": 886546800
+      },
+      "from": {
+        "address": {
+          "name": "Bard the Bowman",
+          "phrase": "Seamless heuristic firmware",
+          "street": "21044 Gutkowski Flats",
+          "city": "70835 Konopelskiland",
+          "country": "Heard Island and McDonald Islands"
+        },
+        "bank": {
+          "name": "Hackett, Goldner and Kassulke",
+          "iban": "GB70RLWN15528350408323",
+          "bic": "BCYPGB2LBBB"
+        },
+        "contact": {
+          "phone": "365.376.0189 x588",
+          "mobile": "(395) 890-7845 x4154",
+          "email": "lindsay_schowalter@writeinvoice.com",
+          "website": "howell-jenkins.writeinvoice.com"
+        },
+        "tax_id": "642-82-8863"
+      },
+      "to": {
+        "address": {
+          "name": "Darth Maul",
+          "street": "6030 Wiza Stream",
+          "city": "76134-1094 Lake Zulemafort",
+          "country": "Onderon"
+        },
+        "tax_id": "066-17-8045"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "313-69-4185",
+            "name": "Gorgeous Cotton Plate",
+            "pieces": 3,
+            "single": 56.53,
+            "total": 169.59
+          },
+          {
+            "id": "208-66-8390",
+            "name": "Fantastic Silk Table",
+            "pieces": 4,
+            "single": 70.21,
+            "total": 280.84
+          },
+          {
+            "id": "728-12-6960",
+            "name": "Gorgeous Steel Plate",
+            "pieces": 1,
+            "single": 67.2,
+            "total": 67.2
+          }
+        ],
+        "sub_total": 517.63,
+        "shipping_fee": 9.89,
+        "total_net": 527.52,
+        "vat": 100.23,
+        "total_gross": 627.75
+      }
+    },
+    {
+      "meta": {
+        "id": "I4926766",
+        "qr_code": "https://armstrong-osinski.writeinvoice.com/api/I4926766",
+        "headline": "I4926766 | Lyra Erso",
+        "group": "1998-W09"
+      },
+      "date": {
+        "period": {
+          "from": 883954800,
+          "to": 885855600
+        },
+        "invoice": 887151600,
+        "billing": 888447600
+      },
+      "from": {
+        "address": {
+          "name": "Bard the Bowman",
+          "phrase": "Seamless heuristic firmware",
+          "street": "21044 Gutkowski Flats",
+          "city": "70835 Konopelskiland",
+          "country": "Heard Island and McDonald Islands"
+        },
+        "bank": {
+          "name": "Hackett, Goldner and Kassulke",
+          "iban": "GB70RLWN15528350408323",
+          "bic": "BCYPGB2LBBB"
+        },
+        "contact": {
+          "phone": "365.376.0189 x588",
+          "mobile": "(395) 890-7845 x4154",
+          "email": "lindsay_schowalter@writeinvoice.com",
+          "website": "howell-jenkins.writeinvoice.com"
+        },
+        "tax_id": "642-82-8863"
+      },
+      "to": {
+        "address": {
+          "name": "Lyra Erso",
+          "street": "9958 Runolfsdottir Corner",
+          "city": "93110 Port Rickyburgh",
+          "country": "Eadu"
+        },
+        "tax_id": "848-04-8504"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "279-75-0478",
+            "name": "Small Plastic Keyboard",
+            "pieces": 3,
+            "single": 76.91,
+            "total": 230.73
+          },
+          {
+            "id": "179-91-7374",
+            "name": "Ergonomic Copper Shirt",
+            "pieces": 1,
+            "single": 78.18,
+            "total": 78.18
+          },
+          {
+            "id": "065-71-3709",
+            "name": "Small Granite Shirt",
+            "pieces": 2,
+            "single": 92.05,
+            "total": 184.1
+          },
+          {
+            "id": "312-12-2783",
+            "name": "Synergistic Leather Plate",
+            "pieces": 4,
+            "single": 47.37,
+            "total": 189.48
+          },
+          {
+            "id": "708-71-3374",
+            "name": "Gorgeous Marble Bag",
+            "pieces": 1,
+            "single": 98.1,
+            "total": 98.1
+          },
+          {
+            "id": "782-81-4974",
+            "name": "Intelligent Wool Computer",
+            "pieces": 3,
+            "single": 51.37,
+            "total": 154.11
+          }
+        ],
+        "sub_total": 934.7,
+        "shipping_fee": 8.05,
+        "total_net": 942.75,
+        "vat": 179.12,
+        "total_gross": 1121.87
+      }
+    },
+    {
+      "meta": {
+        "id": "K7769465",
+        "qr_code": "https://howell-jenkins.writeinvoice.com/api/K7769465",
+        "headline": "K7769465 | Rose Tico",
+        "group": "1998-W07"
+      },
+      "date": {
+        "period": {
+          "from": 885423600,
+          "to": 884905200
+        },
+        "invoice": 886201200,
+        "billing": 887497200
+      },
+      "from": {
+        "address": {
+          "name": "Bard the Bowman",
+          "phrase": "Seamless heuristic firmware",
+          "street": "21044 Gutkowski Flats",
+          "city": "70835 Konopelskiland",
+          "country": "Heard Island and McDonald Islands"
+        },
+        "bank": {
+          "name": "Hackett, Goldner and Kassulke",
+          "iban": "GB70RLWN15528350408323",
+          "bic": "BCYPGB2LBBB"
+        },
+        "contact": {
+          "phone": "365.376.0189 x588",
+          "mobile": "(395) 890-7845 x4154",
+          "email": "lindsay_schowalter@writeinvoice.com",
+          "website": "howell-jenkins.writeinvoice.com"
+        },
+        "tax_id": "642-82-8863"
+      },
+      "to": {
+        "address": {
+          "name": "Rose Tico",
+          "street": "8811 Carter Plains",
+          "city": "41908 West Raina",
+          "country": "Ahch-To"
+        },
+        "tax_id": "515-71-4309"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "385-18-5011",
+            "name": "Sleek Plastic Watch",
+            "pieces": 4,
+            "single": 64.6,
+            "total": 258.4
+          },
+          {
+            "id": "058-58-7144",
+            "name": "Mediocre Iron Gloves",
+            "pieces": 3,
+            "single": 72.31,
+            "total": 216.93
+          }
+        ],
+        "sub_total": 475.33,
+        "shipping_fee": 4.73,
+        "total_net": 480.06,
+        "vat": 91.21,
+        "total_gross": 571.27
+      }
+    },
+    {
+      "meta": {
+        "id": "W8803990",
+        "qr_code": "https://hermiston-hammes.writeinvoice.com/api/W8803990",
+        "headline": "W8803990 | Vice Admiral Holdo",
+        "group": "1998-W07"
+      },
+      "date": {
+        "period": {
+          "from": 884818800,
+          "to": 884473200
+        },
+        "invoice": 885769200,
+        "billing": 887065200
+      },
+      "from": {
+        "address": {
+          "name": "Bard the Bowman",
+          "phrase": "Seamless heuristic firmware",
+          "street": "21044 Gutkowski Flats",
+          "city": "70835 Konopelskiland",
+          "country": "Heard Island and McDonald Islands"
+        },
+        "bank": {
+          "name": "Hackett, Goldner and Kassulke",
+          "iban": "GB70RLWN15528350408323",
+          "bic": "BCYPGB2LBBB"
+        },
+        "contact": {
+          "phone": "365.376.0189 x588",
+          "mobile": "(395) 890-7845 x4154",
+          "email": "lindsay_schowalter@writeinvoice.com",
+          "website": "howell-jenkins.writeinvoice.com"
+        },
+        "tax_id": "642-82-8863"
+      },
+      "to": {
+        "address": {
+          "name": "Vice Admiral Holdo",
+          "street": "72989 Neda Valleys",
+          "city": "52931-0235 Binsberg",
+          "country": "Geonosis"
+        },
+        "tax_id": "407-74-4816"
+      },
+      "items": {
+        "articles": [
+          {
+            "id": "030-06-5770",
+            "name": "Rustic Bronze Pants",
+            "pieces": 1,
+            "single": 17.26,
+            "total": 17.26
+          },
+          {
+            "id": "076-65-5428",
+            "name": "Rustic Paper Bench",
+            "pieces": 1,
+            "single": 36.86,
+            "total": 36.86
+          }
+        ],
+        "sub_total": 54.120000000000005,
+        "shipping_fee": 2.19,
+        "total_net": 56.31,
+        "vat": 10.7,
+        "total_gross": 67.01
+      }
+    }
+  ]
+}

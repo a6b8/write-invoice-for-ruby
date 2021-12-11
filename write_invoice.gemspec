@@ -40,7 +40,7 @@ Gem::Specification.new do |spec|
   # spec.add_dependency "prawn/measurement_extensions", "~> 1.0"
   spec.add_dependency "prawn-qrcode", "~> 0.5.2"
   spec.add_dependency "date", "~> 3.1.0"
-  spec.add_dependency "fake", "~> 2.19.0"
+  spec.add_dependency "faker", "~> 2.19.0"
 
   # For more information and examples about making a new gem, checkout our
   # guide at: https://bundler.io/guides/creating_gem.html
