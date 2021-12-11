@@ -56,4 +56,4 @@ end
 final = results.all?
 puts "Overall: #{final}"
 
-final ? exit( 1 ) : exit( 0 )
+final ? exit( 0 ) : exit( 1 )
