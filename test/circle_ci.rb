@@ -1,14 +1,11 @@
 require './lib/write_invoice'
 require 'digest'
 
-path_payload = 'original/payload.json'
-path_original = 'original/original.pdf'
+path_payload = './test/original/payload.json'
+path_original = './test/original/original.pdf'
 
 file = File.read( path_payload )
 payload = JSON.parse( file ) 
-options = 
-
-
 
 tests = [
     {
