@@ -1,12 +1,11 @@
 require './lib/write_invoice'
-require "active_support/core_ext/hash/indifferent_access"
 require 'digest'
 
 path_payload = 'original/payload.json'
 path_original = 'original/original.pdf'
 
 file = File.read( path_payload )
-payload = JSON.parse( file ) #.with_indifferent_access
+payload = JSON.parse( file ) 
 options = 
 
 
