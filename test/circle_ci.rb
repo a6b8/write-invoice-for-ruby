@@ -13,7 +13,7 @@ tests = [
         expect: true, 
         options: {
             show__logo: true,
-            headline__image__src: "#{Dir.pwd}/logo.png",
+            headline__image__src: "#{Dir.pwd}/test/template/logo.png",
             show__unencrypted: false
         }
     },
@@ -22,7 +22,7 @@ tests = [
         expect: false,
         options: {
             show__logo: true,
-            headline__image__src: "#{Dir.pwd}/logo.png",
+            headline__image__src: "#{Dir.pwd}/test/template/logo.png",
             show__unencrypted: true
         }
     }

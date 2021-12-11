@@ -4,7 +4,7 @@ require '../lib/write_invoice'
 payload = WriteInvoice::Example.generate()
 options = {
     show__logo: true,
-    headline__image__src: "#{Dir.pwd}/logo.png",
+    headline__image__src: "#{Dir.pwd}/template/logo.png",
     show__unencrypted: false
 }
 
