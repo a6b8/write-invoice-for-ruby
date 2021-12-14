@@ -1,11 +1,19 @@
 require './lib/write_invoice'
 require 'digest'
 
+require 'net/http'
+require 'base64'
+
 path_payload = './test/original/payload.json'
 path_original = './test/original/original.pdf'
 
 file = File.read( path_payload )
 payload = JSON.parse( file ) 
+
+url = "https://docs.writeinvoice.com/assets/images/logo.png"
+uri = URI( url )
+response = Net::HTTP.get( uri )
+file = Base64.encode64( response )
 
 tests = [
     {
@@ -13,7 +21,7 @@ tests = [
         expect: true, 
         options: {
             show__logo: true,
-            headline__image__src: "#{Dir.pwd}/test/template/logo.png",
+            headline__image__src: file,
             show__unencrypted: false
         }
     },
@@ -22,7 +30,7 @@ tests = [
         expect: false,
         options: {
             show__logo: true,
-            headline__image__src: "#{Dir.pwd}/test/template/logo.png",
+            headline__image__src: file,
             show__unencrypted: true
         }
     }
