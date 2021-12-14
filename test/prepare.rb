@@ -1,6 +1,6 @@
 require '../lib/write_invoice'
+require 'net/http'
 require 'base64'
-#require 'digest'
 
 url = "https://docs.writeinvoice.com/assets/images/logo.png"
 uri = URI( url )
