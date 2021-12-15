@@ -44,7 +44,9 @@ module WriteInvoice
     def self.generate( output: nil, payload: nil, options: {}, debug: true )
 
       template = Marshal.load( Marshal.dump( get_options ) )
-      if options_update( options, template, true )
+      valid, messages = options_update( options, template, true )
+
+      if valid
         debug ? print( 'Document      ' ) : ''
         pdf = self.document( template, options, payload, output, debug )
         debug ? puts : ''
@@ -59,7 +61,7 @@ module WriteInvoice
         end
 
       else
-        return false
+        return messages
       end
     end
 

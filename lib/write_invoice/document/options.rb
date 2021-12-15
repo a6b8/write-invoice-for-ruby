@@ -871,7 +871,12 @@ module Options
       messages.each { | m | puts( '- ' + m ) }
     end
 
-    return validation ? messages.length == 0 : insert
+    
+    if validation ? 
+      return [ messages.length == 0, messages ]
+    else
+      return insert
+    end
   end
   
   
