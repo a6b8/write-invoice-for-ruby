@@ -801,7 +801,8 @@ module Options
   
     messages = []
     insert = Marshal.load( Marshal.dump( obj ) )
-  
+
+    options = options.with_indifferent_access
     options.keys.each do | key |
       if allows.include?( key ) 
   
