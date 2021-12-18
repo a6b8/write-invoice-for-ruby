@@ -872,7 +872,7 @@ module Options
     end
 
     
-    if validation ? 
+    if validation
       return [ messages.length == 0, messages ]
     else
       return insert

@@ -144,7 +144,7 @@ module Exmple
     payload[:from][:address][:phrase] = Faker::Company.catch_phrase
     payload[:from][:address][:street] = Faker::Address.street_address
     payload[:from][:address][:city] = "#{Faker::Address.zip} #{Faker::Address.city}"
-    payload[:from][:address][:country] = Faker::Address.country
+    payload[:from][:address][:country] = Faker::Movies::StarWars.planet
     
     payload[:from][:bank][:name] = Faker::Company.name
     payload[:from][:bank][:iban] = Faker::Bank.iban
