@@ -1,5 +1,5 @@
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/write-invoice-for-ruby.svg" height="45px" name="# Write Invoice for Ruby" alt="Write Invoice for Ruby"><br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/write-invoice-for-ruby.svg" height="45px" name="Write Invoice for Ruby" alt="# Write Invoice for Ruby"><br>
 </a>
 
 `write_invoice` is a ruby gem to generate multiple invoices in one document.
