@@ -88,7 +88,12 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/a6b8/w
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/default/credits.svg" height="38px" name="credits" alt="Credits">
 </a>
 
-- write_invoice
+- [prawn-table](https://github.com/prawnpdf/prawn-table)
+- [prawn](https://prawnpdf.org/api-docs/2.3.0/)
+- [prawn-qrcode](https://github.com/jabbrwcky/prawn-qrcode)
+- [date](https://ruby-doc.org/stdlib-3.1.0/libdoc/date/rdoc/Date.html)
+- [faker](https://github.com/faker-ruby/faker)
+- [activesupport](https://rubygems.org/gems/activesupport)
 
 <br>
 
